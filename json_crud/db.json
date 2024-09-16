@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "name": "Ruhma Kahlfe",
+      "email": "ruhma@gmail.com",
+      "username": "Ruhi_58",
+      "phone": "7841970023",
+      "website": "ruhmashop.com"
+    },
+    {
+      "id": "3",
+      "name": "Kasif Mansuri",
+      "email": "kasif@gmail.com",
+      "username": "Kasif123",
+      "phone": "948955800",
+      "website": "vizafieo.com"
+    },
+    {
+      "id": "4",
+      "name": "Jaimis BHandari",
+      "email": "jaimis@gmail.com",
+      "username": "jb007",
+      "phone": "098906280",
+      "website": "zehasuz.com"
+    },
+    {
+      "id": "5",
+      "name": "Sahin Fakhi",
+      "email": "sahin@gmail.com",
+      "username": "Musu@4",
+      "phone": "5678234001",
+      "website": "delhaz.com"
+    },
+    {
+      "id": "2ef2",
+      "name": "neha123",
+      "email": "neha123@gmail.com",
+      "phone": "07894561250"
+    }
+  ]
+}
